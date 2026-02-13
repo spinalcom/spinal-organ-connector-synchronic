@@ -1,0 +1,27 @@
+SPINAL_USER_ID=168
+SPINAL_PASSWORD="xxx"
+SPINALHUB_IP=xxxx
+SPINALHUB_PORT=xxx
+SPINALHUB_PROTOCOL="http"
+
+DIGITALTWIN_PATH="/__users__/admin/Digital twin"
+SPINAL_ORGAN_NAME="Connector Synchronic"
+SPINAL_CONFIG_PATH="/etc/Organs/Synchronic"
+
+
+# The network that contains the devices data ( Charging station + Energy Counters)
+NETWORK_NAME="Network Synchronic"
+VIRTUAL_NETWORK_NAME="Virtual Network Synchronic"
+
+CARRIER_CONTEXT_NAME="Porteurs de badge Synchronic"
+
+
+CLIENT_BASE_URL="https://vmdemo:8888/synchronic/api/public/api/v1"
+CLIENT_USER="xxxx"
+CLIENT_PASSWORD="xxxx"
+
+#API related info
+PULL_INTERVAL=30000
+
+
+NODE_TLS_REJECT_UNAUTHORIZED=0
