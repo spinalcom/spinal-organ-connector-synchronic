@@ -1,10 +1,10 @@
 # spinal-organ-connector-synchronic
-Simple BOS-ARD api soap connector to collect data
+Simple BOS-SYNCHRONiC api connector
 This connector should fetch: 
 
 - List of pass readers.
 - Logs of readers -> incremented on endpoints
-- List of user IDs (anonyme).
+- List of user IDs.
 
 ## Getting Started
 
